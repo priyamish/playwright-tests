@@ -1,2 +1,2 @@
 # playwright-tests
-Sample playwright tests
+Sample playwright framework and tests
